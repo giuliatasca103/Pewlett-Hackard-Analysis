@@ -19,7 +19,8 @@ Created entity relationship diagrams and performed an analysis using PostgreSQL 
 ## Results
 * Out of the 300,024 employees at Pewlett-Hackard, 90,398 (30.1%) of them are eligible for retirement. 
 * The title with the largest amount of retirement eligible employees (29,414 employees) is Senior Engineer. 
-* The title with the smallest amount of retirement eligible employees (2 employees) is manager. 
+* The title with the smallest amount of retirement eligible employees (2 employees) is manager.
+ 
 ![retiring_tables.png](retiring_tables.png)
 * There are only 1,549 employees that are eligble for mentorship/training for an internal promotion. 
 [mentorship_eligibility.csv]("../Data/mentorship_eligibility.csv")
